@@ -1,5 +1,5 @@
 
-# JTAG_1149-1 Circuit Reliability Testing
+# JTAG_1149-1
 
 This repository contains VHDL code and resources for testing the reliability of circuits using the JTAG IEEE 1149.1 standard (Boundary-Scan). The project provides an implementation of core JTAG components in VHDL, enabling systematic testing of integrated circuits (ICs) and their interconnections to detect faults and ensure the reliability of complex digital systems.
 
